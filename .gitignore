@@ -1,0 +1,22 @@
+# Python build artifacts
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node.js dependencies
+web/node_modules/
+
+# React build output
+web/build/
+
+# Temporary processing folder
+temp_processing/
+
+# IDE and OS files
+.idea/
+.vscode/
+*.DS_Store
